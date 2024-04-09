@@ -1,0 +1,17 @@
+# Ignore .git directory
+.git
+
+# Ignore .gitignore file
+.gitignore
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore any .md files
+*.md
+
+# Ignore any .csv files
+*.csv
+
+# Ignore notebooks files
+*.ipynb
