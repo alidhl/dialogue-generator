@@ -4,9 +4,6 @@
 # Ignore .gitignore file
 .gitignore
 
-# Ignore node_modules directory
-node_modules
-
 # Ignore any .md files
 *.md
 
@@ -15,3 +12,7 @@ node_modules
 
 # Ignore notebooks files
 *.ipynb
+
+.venv
+
+*.keras
