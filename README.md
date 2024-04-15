@@ -1,4 +1,4 @@
-# Elden Ring Dialogue Generator
+# Dialogue Generator
 
 This project is a Recurrent Neural Network (RNN) based dialogue generator, inspired by and trained on dialogue from the game Elden Ring. Utilizing TensorFlow, the model learns patterns and styles from the game's unique dialogue to generate new, game-like conversations. A Gradio interface is integrated to provide an easy and interactive way for users to generate and interact with new dialogues.
 
